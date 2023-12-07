@@ -1,0 +1,81 @@
+{
+  "files": [
+    {
+      "id": "faabebd1-686d-4f45-8a84-92a6c86670a7",
+      "name": "components",
+      "type": "folder",
+      "children": [
+        {
+          "id": "fxgabebd1-686d-4f78-8a84-92a6c86670a7",
+          "name": "header",
+          "type": "folder",
+          "children": [
+            {
+              "id": "faabebgg1-686d-4f78-8a84-92a6c86670a7",
+              "name": "buttons",
+              "type": "folder",
+              "children": [
+                {
+                  "id": "faabebd1-686d-4f78-8a84-92a6c86670k7",
+                  "name": "button.jsx",
+                  "type": "file",
+                  "content": "<button type={submit}>Click</button>",
+                  "date": "05/12/2023"
+                }
+              ],
+              "date": "05/12/2023"
+            }
+          ],
+          "date": "05/12/2023"
+        },
+        {
+          "id": "faabebd1-686d-4f78-8a84-92y6c86670a7",
+          "name": "search",
+          "type": "folder",
+          "children": [
+            {
+              "id": "faabebd1-686d-4f78-8p84-92a6c86670a7",
+              "name": "input.jsx",
+              "type": "file",
+              "content": "<input placeholder='placeholder'/>",
+              "date": "05/12/2023"
+            }
+          ],
+          "date": "05/12/2023"
+        }
+      ],
+      "date": "05/12/2023"
+    },
+    {
+      "id": "faablbd1-686d-4f78-8a84-92a6c86670a7",
+      "name": "data",
+      "type": "folder",
+      "children": [
+        {
+          "id": "faabecd1-686d-4f78-8a84-92a6c86670a7",
+          "name": "users",
+          "type": "folder",
+          "children": [
+            {
+              "id": "iaabebd1-686d-4f78-8a84-92a6c86670a7",
+              "name": "user",
+              "type": "folder",
+              "children": [],
+              "date": "05/12/2023"
+            }
+          ],
+          "date": "05/12/2023"
+        },
+        {
+          "id": "oaabebd1-686d-4f78-8a84-92a6c86670a7",
+          "name": "products",
+          "type": "folder",
+          "children": [],
+          "date": "05/12/2023"
+        }
+      ],
+      "date": "05/12/2023"
+    }
+  ],
+  "date": "05/12/2023"
+}
